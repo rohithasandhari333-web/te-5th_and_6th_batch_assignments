@@ -33,4 +33,4 @@ terraform destroy
 
 The web server displays
 
-Hello from Gowthami web server
+Hello from Rohitha Sandhari web server
